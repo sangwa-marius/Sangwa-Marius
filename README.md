@@ -18,9 +18,21 @@ I'm a passionate **Software Developer/Engineer** dedicated to building efficient
 
 ## 🏆 GitHub Trophies
 
+<h2 align="center">🏆 GitHub Achievements</h2>
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sangwa-marius&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=sangwa-marius
+    &theme=radical
+    &no-frame=true
+    &no-bg=false
+    &margin-w=15
+    &column=4
+    &rank=SECRET,SSS,SS,S,AAA,AA,A,B"
+    alt="GitHub Trophies"
+  />
 </p>
+
 
 ## 🛠️ Technology Stack
 
