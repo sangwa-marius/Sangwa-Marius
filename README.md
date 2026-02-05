@@ -21,7 +21,7 @@ I'm a passionate **Software Developer/Engineer** dedicated to building efficient
 <h2 align="center">🏆 GitHub Achievements</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sangwa-marius&theme=radical&no-frame=true&margin-w=15&column=4" />
+  <img src="https://github-trophies.vercel.app/?username=sangwa-marius&theme=dark_dimmed&row=5&column=6&no-bg=true&no-frame=true" width="100%"/>
 </p>
 
 
