@@ -14,7 +14,7 @@
   
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sangwa-marius&theme=radical&hide_border=true)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sangwa-marius&layout=compact&theme=radical&hide_border=true&langs_count=6)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sangwa-marius&layout=compact&theme=radical&hide_border=true&langs_count=6)
   
 </div>
 
