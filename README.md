@@ -6,6 +6,18 @@
   
 </div>
 
+## 📈 GitHub Statistics
+
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sangwa-marius&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sangwa-marius&theme=radical&hide_border=true)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sangwa-marius&layout=compact&theme=radical&hide_border=true&langs_count=6)
+  
+</div>
+
 ## 🚀 About Me
 
 I'm a passionate **Software Developer/Engineer** dedicated to building efficient, scalable, and maintainable software solutions. I enjoy tackling complex problems and turning ideas into reality through clean code and thoughtful architecture.
@@ -90,17 +102,7 @@ Version Control         ██████████████████�
 - ⚡ **Performance**: Optimizing for speed and efficiency
 - 📱 **Responsive Design**: Building applications that work on all devices
 
-## 📈 GitHub Statistics
 
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sangwa-marius&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sangwa-marius&theme=radical&hide_border=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sangwa-marius&layout=compact&theme=radical&hide_border=true&langs_count=6)
-  
-</div>
 
 ## 📫 Let's Connect
 
