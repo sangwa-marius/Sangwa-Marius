@@ -80,7 +80,7 @@ Backend Development      ██████████████████�
 Database Design         ██████████████████░░░   80%
 API Development         ███████████████████░░   85%
 Problem Solving         ████████████████████░   95%
-Version Control         ██████████████████░░░   80%
+Version Control         ████████████████░░░   80%
 ```
 
 ## 🎯 Core Competencies
@@ -108,15 +108,18 @@ Version Control         ██████████████████�
 
 I'm always interested in discussing new projects, creative ideas, or opportunities to be part of your vision.
 
-<div align="center">
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://linkedin.com/in/sangwa-marius" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/sangwa-marius" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+  </a>
   
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sangwa-marius-308a963ab)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariussangwa@gmailcom)
-
-</div>
-
+  
+</p>
 ## 💡 Current Focus
 
 - 🔨 Building full-stack applications with MERN stack
