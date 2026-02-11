@@ -6,7 +6,7 @@
   
 </div>
 
-## 📈 GitHub Statistics
+##  GitHub Statistics
 
 <div align="center">
   
@@ -18,7 +18,7 @@
   
 </div>
 
-## 🚀 About Me
+## About Me
 
 I'm a passionate **Software Developer/Engineer** dedicated to building efficient, scalable, and maintainable software solutions. I enjoy tackling complex problems and turning ideas into reality through clean code and thoughtful architecture.
 
@@ -83,7 +83,7 @@ Problem Solving         ██████████████████�
 Version Control         ████████████████░░░   80%
 ```
 
-## 🎯 Core Competencies
+🎯 Core Competencies
 
 - **Full-Stack Development**: Building complete web applications from front to back
 - **API Design & Development**: Creating RESTful APIs with Node.js/Express
@@ -93,7 +93,7 @@ Version Control         ████████████████░░�
 - **Version Control**: Collaborating effectively using Git and GitHub
 - **Problem Solving**: Tackling complex coding challenges with C and JavaScript
 
-## 📊 Development Philosophy
+ 📊 Development Philosophy
 
 - ✨ **Clean Code**: Writing readable, maintainable code that others can understand
 - 🧪 **Continuous Learning**: Always exploring new technologies and best practices
@@ -104,7 +104,7 @@ Version Control         ████████████████░░�
 
 
 
-## 📫 Let's Connect
+ 📫 Let's Connect
 
 I'm always interested in discussing new projects, creative ideas, or opportunities to be part of your vision.
 
@@ -120,7 +120,7 @@ I'm always interested in discussing new projects, creative ideas, or opportuniti
   
   
 </p>
-## 💡 Current Focus
+💡 Current Focus
 
 - 🔨 Building full-stack applications with MERN stack
 - 🌐 Improving React skills and exploring advanced patterns
@@ -132,13 +132,20 @@ I'm always interested in discussing new projects, creative ideas, or opportuniti
 
 <div align="center">
   
-  ### 💭 Random Dev Quote
+💭 Random Dev Quote
   
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
   
-  ### 👀 Profile Views
-  
-  ![Visitor Count](https://profile-counter.glitch.me/sangwa-marius/count.svg)
+  👀 Profile Views
+  <p align="center">
+  <img src="https://views.igorkowalczyk.dev/api/badge/achille010?style=classic&color=00D9FF" alt="Profile Views"/>
+</p>
+
+<br clear="right"/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,5&height=100&section=footer" />
+</p>
   
 </div>
 
@@ -152,9 +159,4 @@ I'm always interested in discussing new projects, creative ideas, or opportuniti
   
 </div>
 
-<!-- 
-  Customize this README by:
-  1. Adding your actual social media links
-  2. Adding any certifications or achievements
-  3. Including your actual professional summary
--->
+
