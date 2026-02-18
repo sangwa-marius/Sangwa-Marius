@@ -18,6 +18,13 @@
   
 </div>
 
+### 🗓️ Contribution Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sangwa-marius&theme=redical&bg_color=141321&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
 ## About Me
 
 I'm a passionate **Software Developer/Engineer** dedicated to building efficient, scalable, and maintainable software solutions. I enjoy tackling complex problems and turning ideas into reality through clean code and thoughtful architecture.
